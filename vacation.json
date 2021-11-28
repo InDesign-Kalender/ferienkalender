@@ -383,7 +383,15 @@
             },
             {
                   "date_start": "2022-05-27",
-                  "date_end": "2022-06-07",
+                  "date_end": "null",
+                  "vacation_id": 5,
+                  "location_id": 5,
+                  "schoolyear_id": 1,
+                  "lastupdate": "2020-01-16"
+            },
+            {
+                  "date_start": "2022-06-07",
+                  "date_end": "null",
                   "vacation_id": 5,
                   "location_id": 5,
                   "schoolyear_id": 1,
