@@ -1,5 +1,6 @@
 # Ferienkalender Deutschland
-Dieses Projekt enthält alle Ferien in Deutschland ab dem Schuljahr 2021/22 und wird fortlaufend aktualisiert. 
+Dieses Projekt enthält alle Ferien in Deutschland ab dem Schuljahr 2021/22 und wird fortlaufend aktualisiert.
+https://www.indesign-kalender.de/v1/vacation.json
 
 ## Parameter
 
